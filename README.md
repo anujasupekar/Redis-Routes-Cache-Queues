@@ -1,12 +1,11 @@
-# devops-hw3
-
-###Setup
+## DevOps project
+### Setup
 
 •	Clone this repo, run npm install.                                                                                                                          
 •	Install redis and run on localhost:6379
 
 Tasks:
-####/set and /get routes:
+#### /set and /get routes:
 
 •	Create two new routes /set and /get. 
 
